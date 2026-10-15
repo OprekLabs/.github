@@ -17,11 +17,13 @@
 
 **OprekLabs** comes from the Indonesian word *oprek*: to tinker with something, take it apart, and see how it works. This is where those experiments live and sometimes grow into real tools.
 
-### 🧪 What you'll find here
+### 🧪 Projects
 
-- Experiments and prototypes
-- Developer tools and utilities
-- Projects that started as "what if…"
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**lajurops**](https://github.com/OprekLabs/lajurops) | Open-source planning for ops teams: projects, requests and deployments on one timeline across every environment. Board, timeline down to the hour, calendar and workload views. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [**grepalert**](https://github.com/OprekLabs/grepalert) | Log-based alerting without the stack: tail files or Kubernetes pods, match patterns, send webhooks. No Loki, no Elasticsearch, no database. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| [**ocr-financial-diary**](https://github.com/OprekLabs/ocr-financial-diary) | Send a photo of a bank transfer receipt to a Telegram bot. It's parsed with PaddleOCR and recorded as a transaction in [Sure](https://github.com/we-promise/sure), a self-hosted personal finance app. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
 
 ### 🤝 Contributing
 
