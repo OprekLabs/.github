@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Small, self-hostable tools for ops teams, and whatever else I build along the way.</b><br>
+  <b>Small, self-hostable tools for ops teams, plus experiments and whatever else I build along the way.</b><br>
   Single binaries where possible. No heavy stack. Built by <a href="http://fadhlanhawali.github.io">Fadhlan Hawali</a>.
 </p>
 
